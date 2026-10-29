@@ -1,0 +1,11 @@
+* text=auto
+
+*.cs   text
+*.md   text
+*.ini  text
+*.cmd  text
+*.py   text
+
+*.ico  binary
+*.png  binary
+*.exe  binary

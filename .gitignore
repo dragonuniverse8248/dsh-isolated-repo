@@ -1,0 +1,20 @@
+# build output
+dist/
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+
+# runtime data created by the launcher
+home/
+electron-data/
+dsh-workspace/
+launcher.log
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
